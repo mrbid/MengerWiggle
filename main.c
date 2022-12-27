@@ -48,7 +48,6 @@
     #define NOSSE
 #endif
 
-#define SEIR_RAND       // uncommenting this define will enable the MMX random (it's a marginally slower)
 //#define REGULAR_PHONG   // or Blinn-Phong by default
 #define FUN             // uncomment this for stable simulation speed at different frame rates
 
